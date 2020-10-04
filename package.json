@@ -1,0 +1,15 @@
+{
+  "name": "elliptic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "eslintConfig": {
+    "rules": {
+      "camelcase": 0
+    }
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "standardx": "^5.0.0"
+  }
+}
